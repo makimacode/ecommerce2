@@ -1,0 +1,18 @@
+[
+    {"id":1,"marca":"nike","modelo":"pink","precio":22000,"img":"nikepink.png","descripcion":"running","stock":10},
+    {"id":2,"marca":"nike","modelo":"Black","precio":17000,"img":"nikeblack.png","descripcion":"street","stock":10},
+    {"id":3,"marca":"gucci","modelo":"elegant","precio":18000,"img":"gucci2.png","descripcion":"street","stock":10},
+    {"id":4,"marca":"nike","modelo":"blue","precio":20000,"img":"nikeblue.png","descripcion":"street","stock":10},
+    {"id":5,"marca":"Nike","modelo":"Airforce","precio":8600,"img":"airforceblancas.png","descripcion":"street","stock":10},
+    {"id":6,"marca":"nike","modelo":"yellow","precio":24000,"img":"nikeyellow.png","descripcion":"skate","stock":10},
+    {"id":7,"marca":"adidas","modelo":"running","precio":17000,"img":"adidasblack.png","descripcion":"running","stock":10},
+    {"id":8,"marca":"nike","modelo":"punk","precio":14000,"img":"nikepunk.png","descripcion":"street","stock":10},
+    {"id":9,"marca":"adidas","modelo":"running","precio":35000,"img":"adidascorrerr.png","descripcion":"running","stock":10},
+    {"id":10,"marca":"adidas","modelo":"clasicas","precio":18000,"img":"adidasblack.png","descripcion":"running","stock":10},
+    {"id":11,"marca":"adidas","modelo":"running","precio":22000,"img":"adidascorrer.png","descripcion":"running","stock":10},
+    {"id":12,"marca":"gucci","modelo":"white","precio":1985,"img":"gucci.png","descripcion":"futbol","stock":10}
+
+
+
+
+]
